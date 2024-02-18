@@ -9,6 +9,6 @@ School Management System Project Managed by MD ABDULLAH SHISHIR, MD IBRAHIM HOSS
 Student BSc CSE <br>
 American Internatuinal University Bangladesh - AIUB <br>
 
-ER diagram of Database
+ER diagram of Database <br>
 ![image](https://github.com/shishir786/School-Management-System-DataBase-project-with-SQL/assets/112066110/383d5e14-30c9-4e86-8495-b562dc700a3a)
 
